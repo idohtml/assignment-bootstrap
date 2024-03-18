@@ -1,4 +1,4 @@
-/* CSS Reset *,
+CSS Reset *,
 *::before,
 *::after {
   box-sizing: border-box;
@@ -52,7 +52,7 @@ dd {
 }
 
 a {
-  color: black;
+  color: white;
   text-decoration: none;
 }
 
@@ -81,4 +81,4 @@ select {
     transition-duration: 0.01ms !important;
     scroll-behavior: auto !important;
   }
-} */
+}
